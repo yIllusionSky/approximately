@@ -1,0 +1,12 @@
+[package]
+name = "approximately"
+version = "1.0.0"
+edition = "2021"
+authors = ["YaolinQing <d161442079@163.com>"]
+license = "MIT"
+keywords = ["gamedev", "math"]
+description = "Approximately compare two any values."
+repository = "https://github.com/yIllusionSky/approximately"
+readme = "README.md"
+
+[dependencies]
