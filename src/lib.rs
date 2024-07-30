@@ -2,6 +2,9 @@
 //!
 //! ApproxEq is used to provide an approximate equality for the type you want, but your type must implement the approx trait itself.
 //! By default, [`f32`] and [`f64`] have an implementation with tolerances of `1e-3` and `1e-6`, respectively.
+#![deny(broken_intra_doc_links)]
+#![warn(missing_docs)]
+#![warn(clippy::all, clippy::nursery)]
 
 use std::{borrow::Borrow, fmt::Debug};
 

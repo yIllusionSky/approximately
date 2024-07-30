@@ -8,5 +8,5 @@ keywords = ["gamedev", "math"]
 description = "Approximately compare two any values."
 repository = "https://github.com/yIllusionSky/approximately"
 readme = "README.md"
-
+homepage = "https://github.com/yIllusionSky/approximately"
 [dependencies]
