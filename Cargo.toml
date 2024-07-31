@@ -10,3 +10,7 @@ repository = "https://github.com/yIllusionSky/approximately"
 readme = "README.md"
 homepage = "https://github.com/yIllusionSky/approximately"
 [dependencies]
+
+[features]
+default = []
+simd = []
